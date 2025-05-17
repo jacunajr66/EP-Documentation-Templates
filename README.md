@@ -3,15 +3,15 @@
 
 ## 🚀 Features
 
-- Easy-to-use templates tailored for BlueYonder EP implementation.
+- Easy-to-use templates tailored for Blue Yonder EP implementation.
 - Fully compatible with EP Batch Facility processing.
 - Provides sample Fact Data and Structure Member files to simplify data configuration.
 
 ---
 
-## 📖 About BlueYonder Enterprise Planning
+## 📖 About Blue Yonder Enterprise Planning
 
-BlueYonder Enterprise Planning is a comprehensive solution for managing and optimizing supply chain planning and execution. This repository's resources are designed to facilitate the technical implementation of the system, reducing errors and improving efficiency.
+Blue Yonder Enterprise Planning is a comprehensive solution for managing and optimizing supply chain planning and execution. This repository's resources are designed to facilitate the technical implementation of the system, reducing errors and improving efficiency.
 
 ---
 
